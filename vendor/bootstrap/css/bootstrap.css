@@ -3973,8 +3973,6 @@ tbody.collapse.show {
   /*width: auto;
   height: auto;
   font-size: 1.25rem;*/
-  line-height: inherit;
-  white-space: nowrap;*/
 }
 .navbar-brand>img {
   height: 100%;
