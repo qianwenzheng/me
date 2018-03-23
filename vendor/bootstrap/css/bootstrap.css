@@ -3965,7 +3965,8 @@ tbody.collapse.show {
 }
 
 .navbar-brand {
-  display: inline-block;
+  padding: 0px;
+  /*display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
@@ -3973,7 +3974,7 @@ tbody.collapse.show {
   height: auto;
   font-size: 1.25rem;*/
   line-height: inherit;
-  white-space: nowrap;
+  white-space: nowrap;*/
 }
 .navbar-brand>img {
   height: 100%;
