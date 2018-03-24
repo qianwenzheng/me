@@ -3,9 +3,7 @@
 }
 
 .navbar-brand>img {
-  height: 100%;
-  padding: 15px; 
-  width: auto;
+  padding: 7px 14px;
 }
 
 .bg-dark {
