@@ -3965,19 +3965,13 @@ tbody.collapse.show {
 }
 
 .navbar-brand {
-  padding: 0px;
-  /*display: inline-block;
+  display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  /*width: auto;
-  height: auto;
-  font-size: 1.25rem;*/
-}
-.navbar-brand>img {
-  height: 100%;
-  padding: 15px; 
-  width: auto;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
@@ -6151,7 +6145,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #66ada1 !important;
+  background-color: #343a40 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
