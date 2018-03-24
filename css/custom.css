@@ -9,3 +9,9 @@
 .bg-dark {
   background-color: #66ada1 !important;
 }
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  float: left;
+}
